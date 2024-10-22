@@ -52,12 +52,12 @@ nav ul li {
     background-color: black;
     margin-right:50px;
     margin-left: -20px;
-    margin-top: -5px;
+    margin-top: 5px;
     color: white;
 }
 
 nav ul li a {
-    color: black;
+    color: white;
 }
 
 .price{
