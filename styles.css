@@ -4,7 +4,7 @@ p {
 }
 
 body {
-    background: url(./images/Gallery_20241015_173106.png);
+    background: url(./new/Gallery_20241007_071755.png);
     background-repeat: no-repeat;
     height: 80vh;
     width: 100%;
@@ -24,7 +24,7 @@ body {
 h2{
     margin-left: 200px;
     margin-top:200px;
-    color: blue;
+    color: white;
     font-size: 35px;
     
 }
@@ -49,7 +49,7 @@ nav ul li {
     border: none;
     border-radius: 2px;
     padding: 5px 12px;
-    background-color: blue;
+    background-color: black;
     margin-right:50px;
     margin-left: -20px;
     margin-top: -5px;
